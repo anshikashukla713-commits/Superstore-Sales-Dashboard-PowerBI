@@ -1,0 +1,63 @@
+Superstore Sales Dashboard
+
+Overview
+This project is an interactive Power BI dashboard built using the Superstore dataset. The dashboard provides insights into sales performance, profit analysis, regional performance, customer segments, and product categories.
+
+Dashboard Highlights
+
+Key KPIs
+- Total Sales: 2.30M
+- Total Profit: 286.40K
+- Total Orders: 5.009K
+- Profit Margin: 12.47%
+
+Features
+- Interactive Filters (Region, Category, Segment, Order Date, Sub-Category)
+- Monthly Sales Trend Analysis
+- Sales & Profit by Category
+- Regional Sales Performance
+- Product Performance Summary
+- Customer Segment Analysis
+
+Visualizations Included
+1. Monthly Sales Trend
+2. Sales & Profit by Category
+3. Sum of Sales by Region
+4. Product Performance Summary Table
+5. Sales Distribution by Segment
+
+Tools Used
+- Power BI Desktop
+- DAX
+- Data Modeling
+- Data Visualization
+
+Key Insights
+- Technology generated the highest sales and profit.
+- West region achieved the highest sales performance.
+- Consumer segment contributed the largest share of revenue.
+- Sales showed significant growth during the last quarter of the year.
+- Office Supplies recorded the highest quantity sold.
+
+Dataset
+The dashboard is built using the Superstore Sales Dataset containing:
+- Orders
+- Sales
+- Profit
+- Discount
+- Quantity
+- Customer Segments
+- Regions
+- Product Categories
+
+Project Outcome
+This dashboard helps businesses:
+- Track sales performance
+- Identify profitable categories
+- Analyze regional performance
+- Support data-driven decision making
+
+Dashboard Preview
+[Dashboard Screenshot](dashboard.png)
+
+
